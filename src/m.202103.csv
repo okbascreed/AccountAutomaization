@@ -1,0 +1,4 @@
+item_name,is_expense,quantity,sum_of_one
+Автомат с сувенирами,TRUE,8000,15
+Автоматы с водой,TRUE,60,18000
+Продажа сладостей,FALSE,6000,400

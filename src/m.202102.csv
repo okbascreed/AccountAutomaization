@@ -1,0 +1,4 @@
+item_name,is_expense,quantity,sum_of_one
+Салфетки,TRUE,6000,5
+Сладкая вата,TRUE,15,20000
+Автомат с газировкой,FALSE,5000,12000
